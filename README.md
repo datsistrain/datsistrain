@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datsistrain
 - 👀 I’m interested in the combination of IT and automation
-- 🌱 I’m currently learning ASP.NET Core web api
+- 🌱 I’m currently learning to make web api using ASP.NET Core, EntityFramework with several kinds of database
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: 
 -   Gmail: thanhdatle.metal@gmail.com or dat.le.sistrain@gmail.com

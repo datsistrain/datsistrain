@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @datsistrain
-- 👀 I’m interested in the combination of Infomation technology and Automation engineering
-- 🌱 I’m currently studying web api using ASP.NET Core, EntityFramework with several kinds of database
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me: 
+# 👋 Hi, I’m @datsistrain
+# 👀 I’m interested in the combination of Infomation technology and Automation engineering
+# 🌱 I’m currently studying web api using ASP.NET Core, EntityFramework with several kinds of database
+# 💞️ I’m looking to collaborate on github
+# 📫 How to reach me: 
 -   Gmail: thanhdatle.metal@gmail.com or dat.le.sistrain@gmail.com
 -   LinkedIn: https://www.linkedin.com/in/dat-le-423648211/
   

@@ -1,11 +1,10 @@
-# About me:
-- 👋 Hi, I’m @datsistrain
-- 👀 I’m interested in the combination of Infomation technology and Automation engineering
-- 🌱 I’m currently studying and developing web api using ASP.NET Core, EntityFramework with several kinds of database
-- 💞️ I’m looking to collaborate on github
-# How to reach me: 
-- 📫 Gmail: thanhdatle.metal@gmail.com or dat.le.sistrain@gmail.com
-- 📫 LinkedIn: https://www.linkedin.com/in/dat-le-423648211/
+## 👋 Hi, I’m @datsistrain
+- I develop Web API with ASP.NET Core, EntityFramework and several kinds of database. I'm also experienced in Microservices and Docker deployment. My major is Control & Automation Engineering.
+## 👀 I’m also interested in the application of Information technology in Industrial Automation engineering
+## 📫 How to reach me?
+You can contact me via:
+- Gmail: thanhdatle.metal@gmail.com or dat.le.sistrain@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dat-le-423648211/
   
 <!---
 datsistrain/datsistrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

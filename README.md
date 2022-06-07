@@ -3,7 +3,7 @@ I develop Web API with ASP.NET Core, EntityFramework and several kinds of databa
 ## 👀 I’m also interested in the application of Information technology in Industrial Automation engineering
 ## 📫 How to reach me?
 You can contact me via:
-- Gmail: thanhdatle.metal@gmail.com or dat.le.sistrain@gmail.com
+- Gmail: thanhdatle.metal@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dat-le-423648211/
   
 <!---

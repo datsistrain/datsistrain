@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @datsistrain
-I develop Web API with ASP.NET Core, EntityFramework and several kinds of database. I'm also experienced in Microservices and Docker deployment. My major is Control & Automation Engineering.
+I develop Web API using .NET 6.0, ASP.NET Core, EF Core with several kinds of database. I'm also experienced in Azure Cloud deployment, Microservices and Docker deployment. My major is Control & Automation Engineering.
 ## 👀 I’m also interested in the application of Information technology in Industrial Automation engineering
 ## 📫 How to reach me?
 You can contact me via:
